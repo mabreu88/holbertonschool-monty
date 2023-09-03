@@ -9,7 +9,6 @@ void pall(stack_t **stack, unsigned int n)
 {
     stack_t *current = NULL;
     (void)n;
-
     current = *stack;
 
     while (current != NULL)
