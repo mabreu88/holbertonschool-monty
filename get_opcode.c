@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * get_opcode - function to handle the opcode
+ * get_opecode - function to handle the opcode
  * @stack: stack or queue
  * @arg: command entered by user
  * @dat: value enterd by user
